@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    background-color: lightskyblue;
+    border: 5px solid red;
+    border-radius: 50px;
+}
+
+brown {
+    color: brown;
+}
+
+#green {
+    color: green;
+}
+
+#red {
+    color: red;
+}
+
+#yellow {
+    color: yellow;
+}
+
+#grey {
+    color: grey;
+}
+
+caption {
+    background-color: yellow;
+}
+
+#trred {
+    background-color: red;
+}
+
+.greentd {
+    background-color: green;
+}
+
+.redtd {
+    background-color: mediumpurple;
+}
+
+table {
+    text-align: center;
+    height: 150px;
+    width: 1000px;
+}
+
+#greenin {
+    background-color: greenyellow;
+    width: 333px;
+    height: 30px;
+    border: none;
+}
+
+img {
+    width: 688px;
+    height: auto;
+}
